@@ -1,8 +1,8 @@
 # Kelompok 1
-### Slogan Kelompok Satu Anti Turu
+### Kelompok Satu Anti Turu
 
 - # Team Lead
-### Yogi Sukmawati
+### 1. Yogi Sukmawati
 
 - # Anggota Tim
 ### 1. Yanuar Bimantoro Aji
